@@ -4,6 +4,6 @@
 
 Module for determining the position of a person on an openmv camera.
 
-## Credits
+## License MIT
 
-Developer - Eugene Grebennikov (@djonnyx)
+Eugene Grebennikov (@djonnyx)
